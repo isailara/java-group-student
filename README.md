@@ -1,2 +1,2 @@
 # java-group-student
-![Class Diagram](group-student.jpg)
+![Class Diagram](src/com/company/group-student.jpg)
